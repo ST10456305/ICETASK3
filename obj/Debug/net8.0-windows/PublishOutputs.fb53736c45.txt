@@ -1,5 +1,0 @@
-C:\Temp\CafeKioskRun\CafeKiosk.exe
-C:\Temp\CafeKioskRun\CafeKiosk.dll
-C:\Temp\CafeKioskRun\CafeKiosk.deps.json
-C:\Temp\CafeKioskRun\CafeKiosk.runtimeconfig.json
-C:\Temp\CafeKioskRun\CafeKiosk.pdb
